@@ -1,4 +1,4 @@
-# LearnSetu - Learning Management System (LMS)
+# LearnSetu -Online Learning Platform  (LMS)
 
 **LearnSetu** is a feature-rich Online Learning Platform developed by **Dhanshri Fatangare**, **Khushi**, and **Bhakti**. The platform is built to streamline the teaching and learning process with dedicated dashboards for Admin, Instructors, and Students.
 
